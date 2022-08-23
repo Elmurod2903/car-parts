@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361483755823",
+    "project_id": "carpart-7975e",
+    "storage_bucket": "carpart-7975e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361483755823:android:afc38157257cbcddeb41da",
+        "android_client_info": {
+          "package_name": "uz.elmurod.carparts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361483755823-lmce0cqvug1vfneqqu2em9o4p805eedq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_Z8o7kPpTx59Y8dJb6pUzTTCe5srMjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361483755823-lmce0cqvug1vfneqqu2em9o4p805eedq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

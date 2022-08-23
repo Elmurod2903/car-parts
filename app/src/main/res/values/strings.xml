@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Car Parts</string>
+    <string name="avtomobil_ehtiyot_qismlari">Avtomobil ehtiyot qismlari</string>
+    <string name="number_prefix">+998</string>
+    <string name="privacy_policy_text">Davom etish orqali siz bizning Foydalanish shartlari hamda Maxfiylik siyosatiga rozisiz</string>
+    <string name="verify">Tasdiqlash</string>
+    <string name="resend_code">Resend code</string>
+    <string name="code_for_number">Telefon raqamingizga jo\'natilgan tasdiqlash kodini kiriting \n%1s</string>
+    <string name="login">Kirish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="see_all_products">See all products</string>
+    <string name="make_order">Buyurtma berish</string>
+    <string name="detail">Tafsilotlar</string>
+    <string name="add_to_cart">Savatchaga qo\'shish</string>
+    <string name="main">Main</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="saved">Saved</string>
+    <string name="add_car_part">Add car part</string>
+
+</resources>

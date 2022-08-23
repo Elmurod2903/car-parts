@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#1A4D2E</color>
+    <color name="purple_700">#1A4D2E</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biometric_back">#38C8FD</color>
+    <color name="biometric_back_100">#0D5585</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="back_color">#F6C813</color>
+    <color name="platinum">#ffe7dede</color>
+    <color name="otp_solid_color">#fff1f0ec</color>
+    <color name="lavender_blue">#CCC7D2FC</color>
+    <color name="background_color">#F1F2F6</color>
+    <color name="gray">#F5F5F6</color>
+
+
+</resources>
